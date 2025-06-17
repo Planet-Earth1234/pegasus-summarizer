@@ -26,7 +26,7 @@
 - **⚙️ Customizable summary length**: Adjustable min/max length via sliders.
 - **📄 Downloadable summary**: One-click download as `.txt`.
 - **☁️ Deployable**: Run locally with GPU or deploy on Hugging Face Spaces via Docker.
-- **🔧 Modular code**: Easily swap models (DistilBART, T5, or OpenAI API) or add features (video/audio summarization).
+
 
 ---
 
